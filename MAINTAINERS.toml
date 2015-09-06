@@ -1,12 +1,12 @@
 [Preamble]
   title = "Maintainers"
   text = """
-This file lists how the Cookbook Quality Metrics project is maintained. When making changes to the system, this
-file tells you who needs to review your patch - you need a simple majority of maintainers
-for the relevant subsystems to provide a :+1: on your pull request. Additionally, you need
+This file lists how the Cookbook Quality Metrics project is maintained. When making
+changes to the system, this file tells you who needs to review your patch - you need at
+least two maintainers to provide a :+1: on your pull request. Additionally, you need
 to not receive a veto from a Lieutenant or the Project Lead.
-Check out [How Chef is Maintained](https://github.com/opscode/chef-rfc/blob/master/rfc030-maintenance-policy.md#how-the-project-is-maintained) for details on the process, how to become
-a maintainer, lieutenant, or the project lead.
+Check out [How Chef is Maintained](https://github.com/opscode/chef-rfc/blob/master/rfc030-maintenance-policy.md#how-the-project-is-maintained)
+for details on the process, how to become a maintainer, lieutenant, or the project lead.
 """
 
 [Org]
@@ -27,9 +27,20 @@ a maintainer, lieutenant, or the project lead.
           "someara",
           "jtimberman",
           "smurawski",
-          "thommay"
+          "thommay",
+          "pburkholder",
+          "adamleff",
+          "sigje",
+          "cperry",
+          "cheeseplus",
+          "andreelizondo",
+          "jj",
+          "mattray",
+          "mattwrock",
+          "nellshamrell",
+          "ryancragun",
         ]
-  
+
 [people]
   [people.nathenharvey]
     Name = "Nathen Harvey"
@@ -59,3 +70,39 @@ a maintainer, lieutenant, or the project lead.
     GitHub = "thommay"
     IRC = "thom"
     Twitter = "thommay"
+
+  [people.pburkholder]
+    Name = "Peter Burkholder"
+    GitHub = "pburkholder"
+
+  [people.adamleff]
+    Name = "Adam Leff"
+    GitHub = "adamleff"
+
+  [people.sigje]
+    Name = "Jennifer Davis"
+    GitHub = "iennae"
+
+  [people.cperry]
+    Name = "Carl Perry"
+
+  [people.cheeseplus]
+    Name = "Seth Thomas"
+
+  [people.andreelizondo]
+    Name = "Andre Elizondo"
+
+  [people.jj]
+    Name = "JJ Asghar"
+
+  [people.mattray]
+    Name = "Matt Ray"
+
+  [people.mattwrock]
+    Name = "Matt Wrock"
+
+  [people.nellshamrell]
+    Name = "Nell Shamrell"
+
+  [people.ryancragun]
+    Name = "Ryan Cragun"
