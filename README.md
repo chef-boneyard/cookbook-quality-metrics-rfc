@@ -6,6 +6,16 @@ quality metrics.  The system takes inspiration from [Foodcritic](http://www.food
 This repository is a place where the community can start collaborating on
 metrics.
 
+The lifecycle of a metric will be:
+
+* *Draft* - this is a proposed metric, ready for community discussion and
+  approval.
+* *Accepted* - this metric has been accepted and merged into the master branch.
+* *Implemented* - this metric has been implemented and is contributing to the
+scores shown on the Supermarket.
+* *Closed* - this metric has not been accepted or has been removed from the
+  system.
+
 ## Proposing New Metrics
 
 * create a new branch in this repository
@@ -16,9 +26,12 @@ metrics.
 ## Approving New Metrics
 
 * New metrics will be reviewed by the people listed in `MAINTAINERS.md`
-* A simple majority of MAINTAINERS must approve each new rule with a :+1:
+* At least two MAINTAINERS must approve each new rule with a :+1:
+  * Any maintainer may :-1: a proposed metric.  This will increase the
+    requirement for a metric to be merged to an absolute majority of maintainers.
 * An EDITOR (someone listed in `EDITORS.md`) will:
-  * Assign a number to the quality metric by updating the name of the file and the `SMQM` field
+  * Assign a number to the quality metric by updating the name of the file and
+    the `SMQM` field
   * Move the file from `quality-metrics/new` to `quality-metrics/`
   * Update the status to `Accepted`
 
