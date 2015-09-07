@@ -24,7 +24,7 @@ This is pseudocode
 ### Points
 
 * Positive Points:  1
-* Negative Points: 100
+* Negative Points: 100 if deprecated, 25 if up for adoption
 
 One point will be awarded if the quality metric is met.
 
