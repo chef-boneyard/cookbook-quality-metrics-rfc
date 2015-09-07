@@ -16,7 +16,7 @@ Cookbook consumers should know whom to contact with questions, issues, or praise
 Pseudocode or actual code that can be used to automatically verify the rule and/or assign appropriate points.
 
     it 'has a maintainer' do
-      expect(cookbook.maintainer).to_not be_nil
+      expect(cookbook.maintainer_email).to_not be_nil
     end
 
 ### Points
