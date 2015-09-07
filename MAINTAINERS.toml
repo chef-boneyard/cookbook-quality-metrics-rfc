@@ -85,24 +85,32 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
 
   [people.cperry]
     Name = "Carl Perry"
+    GitHub = "edolnx"
 
   [people.cheeseplus]
     Name = "Seth Thomas"
+    GitHub = "cheeseplus"
 
   [people.andreelizondo]
     Name = "Andre Elizondo"
+    GitHub = "andrewelizondo"
 
   [people.jj]
     Name = "JJ Asghar"
+    GitHub = "jjasghar"
 
   [people.mattray]
     Name = "Matt Ray"
+    GitHub = "mattray"
 
   [people.mattwrock]
     Name = "Matt Wrock"
+    GitHub = "mwrock"
 
   [people.nellshamrell]
     Name = "Nell Shamrell"
+    GitHub = "nellshamrell"
 
   [people.ryancragun]
     Name = "Ryan Cragun"
+    GitHub = "ryancragun"
