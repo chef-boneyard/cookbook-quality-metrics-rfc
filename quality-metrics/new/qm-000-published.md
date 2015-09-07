@@ -28,4 +28,4 @@ This is pseudocode
 
 One point will be awarded if the quality metric is met.
 
-One hundred points will be deducted if the quality metric is not met.
+One hundred points will be deducted if the cookbook has been deprecated.  Twenty five points will be deducted if the cookbook is up for adoption.
