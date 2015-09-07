@@ -29,3 +29,11 @@ The metric's status should be changed to `Implemented` when the metric is being 
 The [Supermarket](https://supermarket.chef.io) will show a total score for each cookbook.
 
 Each cookbook listed on the Supermarket will have a tab showing how it's score was generated.
+
+## Maintenance Policy
+
+This project generally follows [Chef's Maintenance Policy](https://github.com/chef/chef-rfc/blob/master/rfc030-maintenance-policy.md).
+
+* The **Project Lead** for this is project is the current project lead for [Chef](https://github.com/chef/chef) as specified in the [MAINTAINERS file](https://github.com/chef/chef/blob/master/MAINTAINERS.md).
+
+* The **Lieutenant** and **Maintainers** for this project are listed in `MAINTAINERS.md`.
