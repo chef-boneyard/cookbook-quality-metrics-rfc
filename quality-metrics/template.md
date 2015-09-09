@@ -1,32 +1,31 @@
 ---
 SMQM: UNASSIGNED
-Author: Melissa Jones <mjones@example.com>
+Author: JJ Asghar <jj@chefio>
 Status: Draft, Accepted, Implemented, Closed
 License: Apache 2.0
 ---
 
-# Name of the rule
+# Integration Testing
 
-Brief description and criteria for meeting the rule.
+There should be at least one of the following with integration testing:
+* serverspec
+* bats
+* TBD
 
-* first criterion
-* second criterion
-* third criterion
+With integration testing you can verify via test-kitchen that the cookbook does what you expect it to do, without checking it by hand.
 
-Brief description of why the rule should be met.
+Integration testing is pinical to velocity and verifing community cookbooks are what we expect them to be.
 
 ### Verification
 
 Pseudocode or actual code that can be used to automatically verify the rule and/or assign appropriate points.
 
-    it 'meets the rule' do
-      expect(something).to be true
-    end
+  find test/integration/default/ --name _spec.rb > 3
 
 ### Points
 
-* Positive Points:  1
-* Negative Points: 100
+* Positive Points:  50
+* Negative Points: 10
 
 Positive points will be awarded if the quality metric is met.
 
