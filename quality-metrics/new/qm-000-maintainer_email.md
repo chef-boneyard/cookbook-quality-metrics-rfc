@@ -15,14 +15,14 @@ Cookbook consumers should know whom to contact with questions, issues, or praise
 
 Pseudocode or actual code that can be used to automatically verify the rule and/or assign appropriate points.
 
-    it 'has a maintainer' do
+    it 'has a maintainer_email' do
       expect(cookbook.maintainer_email).to_not be_nil
     end
 
 ### Points
 
 * Positive Points:  1
-* Negative Points: 10
+* Negative Points: 20
 
 One point will be awarded if the quality metric is met.
 
