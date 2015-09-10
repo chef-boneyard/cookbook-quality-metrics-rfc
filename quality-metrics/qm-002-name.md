@@ -1,7 +1,7 @@
 ---
-SMQM: UNASSIGNED
+SMQM: 002
 Author: Nathen Harvey <nharvey@chef.io>
-Status: Draft
+Status: Accepted
 License: Apache 2.0
 ---
 
