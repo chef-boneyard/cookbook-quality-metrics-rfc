@@ -11,8 +11,10 @@ The lifecycle of a metric will be:
 * *Draft* - this is a proposed metric, ready for community discussion and
   approval.
 * *Accepted* - this metric has been accepted and merged into the master branch.
+* *In Progress* - data for this metric is being gathered and is visible by some
+  mechanism but not displayed on the Supermarket by default.
 * *Implemented* - this metric has been implemented and is contributing to the
-scores shown on the Supermarket.
+  scores shown on the Supermarket.
 * *Closed* - this metric has not been accepted or has been removed from the
   system.
 
@@ -35,7 +37,9 @@ scores shown on the Supermarket.
   * Move the file from `quality-metrics/new` to `quality-metrics/`
   * Update the status to `Accepted`
 
-The metric's status should be changed to `Implemented` when the metric is being measured on the [public Supermarket](https://supermarket.chef.io).
+The metric's status should be changed to `In Progress` once data is being gathered for that metric.
+
+The metric's status should be changed to `Implemented` when the metric is being measured and is visible on the [public Supermarket](https://supermarket.chef.io).
 
 ## Viewing Cookbook Scores
 
