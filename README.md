@@ -28,7 +28,7 @@ The lifecycle of a metric will be:
 ## Approving New Metrics
 
 * New metrics will be reviewed by the people listed in `MAINTAINERS.md`
-* At least two MAINTAINERS must approve each new rule with a :+1:
+* At least two MAINTAINERS must approve each new metric with a :+1:
   * Any maintainer may :-1: a proposed metric.  This will increase the
     requirement for a metric to be merged to an absolute majority of maintainers.
 * An EDITOR (someone listed in `EDITORS.md`) will:
@@ -36,6 +36,7 @@ The lifecycle of a metric will be:
     the `SMQM` field
   * Move the file from `quality-metrics/new` to `quality-metrics/`
   * Update the status to `Accepted`
+  * Add the metric to `SMQM.md`
 
 The metric's status should be changed to `In Progress` once data is being gathered for that metric.
 
