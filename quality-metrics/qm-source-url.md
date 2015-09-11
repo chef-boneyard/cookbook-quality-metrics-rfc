@@ -17,7 +17,7 @@ take a look at previous releases, pull-requests or unreleased changes.
 Pseudocode or actual code that can be used to automatically verify the rule and/or assign appropriate points.
 
 ```ruby
-it 'has a issues_url' do
+it 'has a source_url' do
   expect(cookbook.source_url).to_not be_nil
 end
 ```
