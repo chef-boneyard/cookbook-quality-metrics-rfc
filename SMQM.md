@@ -10,3 +10,4 @@ SMQM|Name|Points awarded when the metric is met|Points deducted when the metric 
 004|Cookbook has collaborators on the Supermarket|1-5, one point for each collaborator up to a maximum of 5 points.|0
 005|Cookbook has an open source license|1|100
 006|Cookbook lists maintainer's email address|1|20
+007|Cookbook has a version other than `0.0.0`|1|20

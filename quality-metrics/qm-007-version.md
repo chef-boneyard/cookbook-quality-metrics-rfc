@@ -1,7 +1,7 @@
 ---
-SMQM: UNASSIGNED
+SMQM: 007
 Author: Nathen Harvey <nharvey@chef.io>
-Status: Draft
+Status: Accepted
 License: Apache 2.0
 ---
 
@@ -22,7 +22,7 @@ Pseudocode or actual code that can be used to automatically verify the rule and/
 ### Points
 
 * Positive Points:  1
-* Negative Points: 10
+* Negative Points: 20
 
 One points will be awarded if the quality metric is met.
 
