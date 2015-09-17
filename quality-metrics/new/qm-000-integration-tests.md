@@ -14,19 +14,21 @@ There should be at least one of the following with integration testing:
 
 With integration testing you can verify via test-kitchen that the cookbook does what you expect it to do, without checking it by hand.
 
-Integration testing is pinical to velocity and verifing community cookbooks are what we expect them to be.
+Integration testing is pinnacle to velocity and verifying community cookbooks are what we expect them to be.
 
 ### Verification
 
 Pseudocode or actual code that can be used to automatically verify the rule and/or assign appropriate points.
 
-  find test/integration/default/ --name *_spec.rb > 3
+```bash
+   [ $(find test/integration/default/ -name '*_spec.rb' | wc -l) -ge $(find recipes/ -name '*.rb' | wc -l ) ]
+```
 
 ### Points
 
-* Positive Points:  50
-* Negative Points: 10
+* Positive Points: TBD
+* Negative Points: TBD
 
-Fifty points will be awarded if the quality metric is met.
+TBD points will be awarded if the quality metric is met.
 
-Ten points will be deducted if the quality metric is not met.
+TBD points will be deducted if the quality metric is not met.
