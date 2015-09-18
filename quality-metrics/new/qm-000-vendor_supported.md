@@ -12,12 +12,15 @@ accepts support responsibilities for the cookbook.
 
 * The vendor is listed as a contact email address for the cookbook in the README
 * Chef's Partner Engineering is listed as a contact email address for the cookbook in the README
+* Supermarket represents the cookbook as "Vendor Supported" in some form (badge?)
 
 If a vendor chooses to support a cookbook for their product, this is an
-indicator to users that there is an expectation of quality and support. Potential
-partners are encouraged to reach out to Chef's Partner Engineering team (partnereng@chef.io)
-to help get high-quality cookbooks published and publicized. This does not
-preclude alternate implementations or other scoring metrics.
+indicator to users that there is an expectation of quality and support. This
+designation is not automated and will require interaction with Chef's Partner
+Engineering team (partnereng@chef.io) and potential partners are encouraged to
+reach out to for assistance getting high-quality cookbooks published and
+publicized. This does not preclude alternate implementations or other scoring
+metrics.
 
 ### Verification
 
