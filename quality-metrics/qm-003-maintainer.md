@@ -18,12 +18,3 @@ Pseudocode or actual code that can be used to automatically verify the rule and/
     it 'has a maintainer' do
       expect(cookbook.maintainer).to_not be_nil
     end
-
-### Points
-
-* Positive Points:  1
-* Negative Points: 10
-
-One point will be awarded if the quality metric is met.
-
-Ten points will be deducted if the quality metric is not met.
