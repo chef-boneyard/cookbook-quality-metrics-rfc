@@ -25,12 +25,3 @@ Pseudocode or actual code that can be used to automatically verify the rule and/
     it 'has an open source license' do
       expect(cookbook_version.license).to match(/Apache 2.0|apache2|GNU Public License 2.0|gplv2|GNU Public License 3.0|gplv3|MIT/i)
     end
-
-### Points
-
-* Positive Points:  1
-* Negative Points: 100
-
-One point will be awarded if the quality metric is met.
-
-One hundred points will be deducted if the quality metric is not met.

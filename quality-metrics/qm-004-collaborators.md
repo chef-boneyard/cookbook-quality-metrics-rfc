@@ -17,12 +17,3 @@ Pseudocode or actual code that can be used to automatically verify the rule and/
 
     points = cookbook.collaborators.count
     points = 5 if points > 5
-
-### Points
-
-* Positive Points:  1-5, one point for each collaborator up to a maximum of 5 points.
-* Negative Points: 0
-
-Positive points will be awarded if the quality metric is met.
-
-No points will be deducted if the quality metric is not met.
