@@ -1,7 +1,7 @@
 ---
-SMQM: UNASSIGNED
+SMQM: 013
 Author: Nathen Harvey <nharvey@chef.io>
-Status: Draft
+Status: Accepted
 License: Apache 2.0
 ---
 
@@ -16,12 +16,3 @@ Code that follows common standards is easier to read, write, and maintain.
 This is pseudocode:
 
     `foodcritic . --tags correctness,metadata`
-
-### Points
-
-* Positive Points:  20
-* Negative Points:  10
-
-Twenty points will be awarded if the quality metric is met.
-
-Ten points will be deducted if the quality metric is not met.
