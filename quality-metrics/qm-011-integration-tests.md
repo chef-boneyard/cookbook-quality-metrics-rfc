@@ -1,7 +1,7 @@
 ---
-SMQM: UNASSIGNED
+SMQM: 011
 Author: JJ Asghar <jj@chefio>
-Status: Draft
+Status: Accepted
 License: Apache 2.0
 ---
 
@@ -23,12 +23,3 @@ Pseudocode or actual code that can be used to automatically verify the rule and/
 ```bash
    [ $(find test/integration/default/ -name '*_spec.rb' | wc -l) -ge $(find recipes/ -name '*.rb' | wc -l ) ]
 ```
-
-### Points
-
-* Positive Points: TBD
-* Negative Points: TBD
-
-TBD points will be awarded if the quality metric is met.
-
-TBD points will be deducted if the quality metric is not met.

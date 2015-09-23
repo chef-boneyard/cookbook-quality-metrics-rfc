@@ -1,7 +1,7 @@
 ---
-SMQM: UNASSIGNED
+SMQM: 010
 Author: John Bellone <jbellone@bloomberg.net>
-Status: Draft
+Status: Accepted
 License: Apache 2.0
 ---
 
@@ -22,12 +22,3 @@ it 'has a supports' do
   expect(cookbook.supports).to_not be_nil
 end
 ```
-
-### Points
-
-* Positive Points: 1
-* Negative Points: 10
-
-One point will be awarded if the quality metric is met.
-
-Ten points will be deducted if the quality metric is not met.

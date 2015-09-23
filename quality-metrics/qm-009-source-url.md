@@ -1,7 +1,7 @@
 ---
-SMQM: Unassigned
+SMQM: 009
 Author: John Bellone <jbellone@bloomberg.net>
-Status: Draft
+Status: Accepted
 License: Apache 2.0
 ---
 
@@ -21,11 +21,3 @@ it 'has a source_url' do
   expect(cookbook.source_url).to_not be_nil
 end
 ```
-
-### Points
-- Positive Points: 1
-- Negative Points: 50
-
-One point will be awarded if the quality metric is met.
-
-Fifty points will be deducted if the quality metric is not met.

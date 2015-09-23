@@ -1,7 +1,7 @@
 ---
-SMQM: Unassigned
+SMQM: 008
 Author: John Bellone <jbellone@bloomberg.net>
-Status: Draft
+Status: Accepted
 License: Apache 2.0
 ---
 
@@ -21,11 +21,3 @@ it 'has a issues_url' do
   expect(cookbook.issues_url).to_not be_nil
 end
 ```
-
-### Points
-- Positive Points: 1
-- Negative Points: 20
-
-One point will be awarded if the quality metric is met.
-
-Twenty points will be deducted if the quality metric is not met.
