@@ -5,16 +5,17 @@ Status: Accepted
 License: Apache 2.0
 ---
 
-# Integration Testing
+# Cookbook includes integration tests
 
-There should be at least one of the following with integration testing:
+There should be at least one of the following directories with test files:
+
 * serverspec
 * bats
 * TBD
 
-With integration testing you can verify via test-kitchen that the cookbook does what you expect it to do, without checking it by hand.
+Integration testing allows you to assert the state of the converged node to ensure it is in the desired state.
 
-Integration testing is pinnacle to velocity and verifying community cookbooks are what we expect them to be.
+Integration testing is pinnacle to velocity and verifying community cookbooks do what we expect.
 
 ### Verification
 
