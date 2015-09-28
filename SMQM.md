@@ -1,13 +1,19 @@
 # Supermarket Quality Metrics
 
-This file lists each quality metric and the points associated with each.
+This file lists each quality metric.
 
-SMQM|Name|Points awarded when the metric is met|Points deducted when the metric is not met
-----|----|-------------------------------------|------------------------------------------
-001|Published to the Supermarket|1|25 if up for adoption, 100 if deprecated|
-002|Cookbook has a Name|1|100
-003|Cookbook lists a maintainer|1|10
-004|Cookbook has collaborators on the Supermarket|1-5, one point for each collaborator up to a maximum of 5 points.|0
-005|Cookbook has an open source license|1|100
-006|Cookbook lists maintainer's email address|1|20
-007|Cookbook has a version other than `0.0.0`|1|20
+SMQM|Name
+----|----
+001|Published to the Supermarket
+002|Cookbook has a Name
+003|Cookbook lists a maintainer
+004|Cookbook has collaborators on the Supermarket
+005|Cookbook has an open source license
+006|Cookbook lists maintainer's email address
+007|Cookbook has a version other than `0.0.0`
+008|Cookbook lists address for issues
+009|Cookbook lists a source address for repository
+010|Cookbook lists at least one platform it supports
+011|Integration Testing
+012|Cookbook Passes Rubocop
+013|Cookbook Passes Foodcritic
