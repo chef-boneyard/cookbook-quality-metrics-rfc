@@ -14,6 +14,6 @@ SMQM|Name
 008|Cookbook lists address for issues
 009|Cookbook lists a source address for repository
 010|Cookbook lists at least one platform it supports
-011|Integration Testing
+011|Cookbook includes integration tests
 012|Cookbook Passes Rubocop
 013|Cookbook Passes Foodcritic
