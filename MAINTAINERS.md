@@ -18,6 +18,8 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
   Handles the [Cookbook Quality Metrics](https://github.com/chef-cookbooks/cookbook-quality-metrics)
   compontent which is used by the [Supermarket](https://github.com/chef/supermarket).
   
+To mention the team, use @chef-cookbooks/quality-metrics-maintainers
+
 ### Lieutenant
 
 * [Nathen Harvey](https://github.com/nathenharvey)
@@ -44,4 +46,5 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
 * [Matt Wrock](https://github.com/mwrock)
 * [Nell Shamrell](https://github.com/nellshamrell)
 * [Ryan Cragun](https://github.com/ryancragun)
+* [Stephen Lauck](https://github.com/stephenlauck)
 
