@@ -42,11 +42,9 @@ The metric's status should be changed to `In Progress` once data is being gather
 
 The metric's status should be changed to `Implemented` when the metric is being measured and is visible on the [public Supermarket](https://supermarket.chef.io).
 
-## Viewing Cookbook Scores
+## Viewing Cookbook Metrics
 
-The [Supermarket](https://supermarket.chef.io) will show a total score for each cookbook.
-
-Each cookbook listed on the Supermarket will have a tab showing how it's score was generated.
+The [Supermarket](https://supermarket.chef.io) will show the metrics for each cookbook.
 
 ## Maintenance Policy
 
