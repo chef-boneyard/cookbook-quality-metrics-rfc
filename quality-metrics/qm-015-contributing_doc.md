@@ -1,5 +1,5 @@
 ---
-SMQM: UNASSIGNED
+SMQM: 15
 Author: Tim Smith <tsmith@chef.io>
 Status: Draft
 License: Apache 2.0

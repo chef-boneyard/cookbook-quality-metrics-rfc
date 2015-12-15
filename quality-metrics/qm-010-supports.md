@@ -1,5 +1,5 @@
 ---
-SMQM: 010
+SMQM: 10
 Author: John Bellone <jbellone@bloomberg.net>
 Status: Accepted
 License: Apache 2.0
