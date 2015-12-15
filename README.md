@@ -44,7 +44,7 @@ The metric's status should be changed to `Implemented` when the metric is being 
 
 ## Viewing Cookbook Metrics
 
-The [Supermarket](https://supermarket.chef.io) will show the metrics for each cookbook.
+The [Supermarket](https://supermarket.chef.io) will show the metrics for each cookbook. We are currently concerned with coming up with a good list of cookbook quality metrics outside of the technical implementation. Once this moves into the implementation phase, there may be metrics here which require adjustments to Chef, Supermarket, or other tools.
 
 ## Maintenance Policy
 
