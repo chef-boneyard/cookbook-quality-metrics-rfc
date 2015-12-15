@@ -1,7 +1,7 @@
 ---
-SMQM: UNASSIGNED
+SMQM: 16
 Author: Clinton Wolfe <clintons@omniti.com>
-Status: Draft
+Status: Accepted
 License: Apache 2.0
 ---
 

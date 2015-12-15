@@ -1,7 +1,7 @@
 ---
-SMQM: UNASSIGNED
+SMQM: 17
 Author: Tim Smith <tsmith@chef.io>
-Status: Draft
+Status: Accepted
 License: Apache 2.0
 ---
 
