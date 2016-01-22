@@ -1,11 +1,11 @@
 ---
-SMQM: 15
+SMQM: 011
 Author: Tim Smith <tsmith@chef.io>
 Status: Accepted
 License: Apache 2.0
 ---
 
-# Includes CONTRIBUTING.MD file
+# Cookbook Includes CONTRIBUTING.MD file
 
 The cookbook includes a `CONTRIBUTING.md` file in the root of the cookbook directory with instructions for contributing to the cookbook.
 
