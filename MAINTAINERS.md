@@ -37,14 +37,21 @@ To mention the team, use @chef-cookbooks/quality-metrics-maintainers
   * [@thommay](https://twitter.com/thommay)
 * [Peter Burkholder](https://github.com/pburkholder)
 * [Adam Leff](https://github.com/adamleff)
+  * IRC - adamleff
+  * [@adamleff](https://twitter.com/adamleff)
 * [Jennifer Davis](https://github.com/iennae)
 * [Carl Perry](https://github.com/edolnx)
 * [Seth Thomas](https://github.com/cheeseplus)
 * [Andre Elizondo](https://github.com/andrewelizondo)
 * [JJ Asghar](https://github.com/jjasghar)
+  * IRC - j^2
+  * [@jjasghar](https://twitter.com/jjasghar)
 * [Matt Ray](https://github.com/mattray)
 * [Matt Wrock](https://github.com/mwrock)
 * [Nell Shamrell](https://github.com/nellshamrell)
 * [Ryan Cragun](https://github.com/ryancragun)
 * [Stephen Lauck](https://github.com/stephenlauck)
+* [Robb Kidd](https://github.com/robbkidd)
+  * IRC - robbkidd
+  * [@robbkidd](https://twitter.com/robbkidd)
 
