@@ -1,11 +1,11 @@
 ---
-SMQM: 17
+SMQM: 013
 Author: Tim Smith <tsmith@chef.io>
 Status: Accepted
 License: Apache 2.0
 ---
 
-# Includes TESTING.MD File
+# Cookbook Includes TESTING.MD File
 
 The cookbook includes a `TESTING.md` file in the root of the cookbook directory with instructions for testing the cookbook.
 

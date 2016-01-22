@@ -1,5 +1,5 @@
 ---
-SMQM: 004
+SMQM: 002
 Author: Nathen Harvey <nharvey@chef.io>
 Status: Accepted
 License: Apache 2.0

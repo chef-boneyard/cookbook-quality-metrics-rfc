@@ -1,11 +1,11 @@
 ---
-SMQM: 14
+SMQM: 010
 Author: Tim Smith <tsmith@chef.io>
 Status: Accepted
 License: Apache 2.0
 ---
 
-# Supports Multiple Platforms
+# Cookbook Supports Multiple Platforms
 
 The cookbook author has indicated support for multiple platforms by including more than 1 supports attribute in the metadata.rb
 
