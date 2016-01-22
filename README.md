@@ -13,8 +13,7 @@ The lifecycle of a metric will be:
 * *Accepted* - this metric has been accepted and merged into the master branch.
 * *In Progress* - data for this metric is being gathered and is visible by some
   mechanism but not displayed on the Supermarket by default.
-* *Implemented* - this metric has been implemented and is contributing to the
-  scores shown on the Supermarket.
+* *Implemented* - this metric has been implemented and is shown on the Supermarket.
 * *Closed* - this metric has not been accepted or has been removed from the
   system.
 
