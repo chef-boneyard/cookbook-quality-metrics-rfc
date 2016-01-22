@@ -40,7 +40,8 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
           "mwrock",
           "nellshamrell",
           "ryancragun",
-          "stephenlauck"
+          "stephenlauck",
+          "robbkidd"
         ]
 
 [people]
@@ -124,3 +125,9 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
   [people.stephenlauck]
     Name = "Stephen Lauck"
     GitHub = "stephenlauck"
+
+  [people.robbkidd]
+    Name = "Robb Kidd"
+    GitHub = "robbkidd"
+    Twitter = "robbkidd"
+    IRC = "robbkidd"

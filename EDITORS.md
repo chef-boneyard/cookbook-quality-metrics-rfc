@@ -21,3 +21,4 @@ The current editors are:
 * [Tim Smith](https://github.com/tas50)
 * [Sean O'Meara](https://github.com/someara)
 * [Nell Shamrell](https://github.com/nellshamrell)
+* [Robb Kidd](https://github.com/robbkidd)

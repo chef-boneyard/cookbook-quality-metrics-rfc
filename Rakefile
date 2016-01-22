@@ -28,7 +28,7 @@ begin
   require 'tomlrb'
   require 'octokit'
   require 'pp'
-  task :default => :generate
+  task :default => 'maintainers:generate'
 
   namespace :maintainers do
     desc "Generate MarkDown version of MAINTAINERS file"
@@ -208,5 +208,5 @@ begin
   end
 
 rescue LoadError
-  STDERR.puts "\n*** TomlRb not available.\n\n"
+  STDERR.puts "\n*** Gems missing. Please run bundle install.\n\n"
 end
