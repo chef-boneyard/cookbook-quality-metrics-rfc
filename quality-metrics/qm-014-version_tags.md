@@ -1,11 +1,11 @@
 ---
-SMQM: UNASSIGNED
+SMQM: 014
 Author: Robb Kidd <robb@thekidds.org>
-Status: Draft
+Status: Accepted
 License: Apache 2.0
 ---
 
-# Cookbook Source has a Tag Matching Cookbook Version
+# Cookbook source has a tag matching cookbook version
 
 The source repository for a cookbook version has a tag matching the version of
 the cookbook declared in metadata.

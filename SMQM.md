@@ -17,3 +17,4 @@ SMQM|Name
 011|Cookbook Includes CONTRIBUTING.MD file
 012|Cookbook does not contain binaries
 013|Cookbook Includes TESTING.MD File
+014|Cookbook source has a tag matching cookbook version
