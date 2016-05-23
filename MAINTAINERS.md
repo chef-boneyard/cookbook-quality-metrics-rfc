@@ -29,7 +29,6 @@ To mention the team, use @chef-cookbooks/quality-metrics-maintainers
 ### Maintainers
 
 * [Tim Smith](https://github.com/tas50)
-* [Sean O'Meara](https://github.com/someara)
 * [Joshua Timberman](https://github.com/jtimberman)
 * [Steven Murawski](https://github.com/smurawski)
 * [Thom May](https://github.com/thommay)
