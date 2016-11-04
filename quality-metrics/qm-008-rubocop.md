@@ -5,9 +5,9 @@ Status: Accepted
 License: Apache 2.0
 ---
 
-# Cookbook Passes Rubocop
+# Cookbook Passes Cookstyle
 
-The cookbook should pass Rubocop lint testing.
+The cookbook should pass Cookstyle lint testing.
 
 Code that follows common standards is easier to read, write, and maintain.
 
@@ -15,4 +15,4 @@ Code that follows common standards is easier to read, write, and maintain.
 
 This is pseudocode:
 
-    `rubocop . --lint`
+    `cookstyle . --lint`
