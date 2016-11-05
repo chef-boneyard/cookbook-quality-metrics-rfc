@@ -199,7 +199,7 @@ begin
     else
       out =  "* #{list[person]["Name"]}"
     end
-    out << "\n  * IRC - #{list[person]["IRC"]}" if list[person].has_key?("IRC")
+    out << "\n  * Slack - #{list[person]["Slack"]}" if list[person].has_key?("Slack")
     out << "\n  * [@#{list[person]["Twitter"]}](https://twitter.com/#{list[person]["Twitter"]})" if list[person].has_key?("Twitter")
     out << "\n  * [#{list[person]["email"]}](mailto:#{list[person]["email"]})" if list[person].has_key?("email")
     out << "\n  * #{list[person]["phone"]}" if list[person].has_key?("phone")
