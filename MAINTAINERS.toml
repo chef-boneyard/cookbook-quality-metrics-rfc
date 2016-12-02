@@ -18,7 +18,7 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
         team = "quality-metrics-maintainers"
         text = """
   Handles the [Cookbook Quality Metrics](https://github.com/chef-cookbooks/cookbook-quality-metrics)
-  compontent which is used by the [Supermarket](https://github.com/chef/supermarket).
+  component which is used by the [Supermarket](https://github.com/chef/supermarket).
   """
 
         lieutenant = "nathenharvey"
@@ -47,7 +47,7 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
   [people.nathenharvey]
     Name = "Nathen Harvey"
     GitHub = "nathenharvey"
-    IRC = "nathenharvey"
+    Slack = "nathenharvey"
     Twitter = "nathenharvey"
 
 
@@ -66,7 +66,7 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
   [people.thommay]
     Name = "Thom May"
     GitHub = "thommay"
-    IRC = "thom"
+    Slack = "thom"
     Twitter = "thommay"
 
   [people.pburkholder]
@@ -76,7 +76,7 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
   [people.adamleff]
     Name = "Adam Leff"
     GitHub = "adamleff"
-    IRC = "adamleff"
+    Slack = "adamleff"
     Twitter = "adamleff"
 
   [people.iennae]
@@ -98,7 +98,7 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
   [people.jjasghar]
     Name = "JJ Asghar"
     GitHub = "jjasghar"
-    IRC = "j^2"
+    Slack = "j^2"
     Twitter = "jjasghar"
 
   [people.mattray]
@@ -125,4 +125,4 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
     Name = "Robb Kidd"
     GitHub = "robbkidd"
     Twitter = "robbkidd"
-    IRC = "robbkidd"
+    Slack = "robbkidd"

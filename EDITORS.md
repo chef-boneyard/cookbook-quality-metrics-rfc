@@ -16,7 +16,7 @@ When a metric has been approved, an editor will:
 The current editors are:
 
 * [Nathen Harvey](https://github.com/nathenharvey)
-  * IRC - nathenharvey
+  * Slack - nathenharvey
   * [@nathenharvey](https://twitter.com/nathenharvey)
 * [Tim Smith](https://github.com/tas50)
 * [Sean O'Meara](https://github.com/someara)
