@@ -4,12 +4,12 @@ This file lists each quality metric.
 
 SMQM | Name                                                | Status
 ---- | --------------------------------------------------- | -----------
-001  | Published to the Supermarket                        | Accepted
+001  | Published to the Supermarket                        | In Progress - Admin Only
 002  | Cookbook has collaborators on the Supermarket       | Implemented
-003  | Cookbook has an open source license                 | Accepted
+003  | Cookbook has an open source license                 | In Progress - Admin Only
 004  | Cookbook lists address for issues                   | Accepted
 005  | Cookbook lists a source address for repository      | Accepted
-006  | Cookbook lists at least one platform it supports    | Accepted
+006  | Cookbook lists at least one platform it supports    | In Progress - Admin Only
 007  | Cookbook includes integration tests                 | Accepted
 008  | Cookbook Passes Cookstyle                           | Accepted
 009  | Cookbook Passes Foodcritic                          | Implemented

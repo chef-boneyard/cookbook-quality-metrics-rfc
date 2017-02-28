@@ -1,7 +1,7 @@
 ---
 SMQM: 003
 Author: Nathen Harvey <nharvey@chef.io>
-Status: Accepted
+Status: In Progress
 License: Apache 2.0
 ---
 
