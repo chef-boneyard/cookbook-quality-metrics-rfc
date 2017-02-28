@@ -1,7 +1,7 @@
 ---
 SMQM: 005
 Author: John Bellone <jbellone@bloomberg.net>
-Status: Accepted
+Status: Closed
 License: Apache 2.0
 ---
 
@@ -21,3 +21,7 @@ it 'has a source_url' do
   expect(cookbook.source_url).to_not be_nil
 end
 ```
+
+# Status
+
+This quality metric has been closed and is currently implemented as part of the [Cookbook Passes Foodcritic](qm-009-foodcritic.md).  [FC0065 - Ensure source_url is set in metadata](http://www.foodcritic.io/#FC065).
