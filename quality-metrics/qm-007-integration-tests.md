@@ -22,5 +22,5 @@ Integration testing is pinnacle to velocity and verifying community cookbooks do
 Pseudocode or actual code that can be used to automatically verify the rule and/or assign appropriate points.
 
 ```bash
-   [ $(find test/integration/default/ -name '*_spec.rb' | wc -l) -ge $(find recipes/ -name '*.rb' | wc -l ) ]
+   [ $(find test/integration/ -name '*_spec.rb' | wc -l) -ge $(find recipes/ -name '*.rb' | wc -l ) ]
 ```
