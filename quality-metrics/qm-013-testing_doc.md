@@ -1,7 +1,7 @@
 ---
 SMQM: 013
 Author: Tim Smith <tsmith@chef.io>
-Status: Accepted
+Status: In Progress
 License: Apache 2.0
 ---
 
