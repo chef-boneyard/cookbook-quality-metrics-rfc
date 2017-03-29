@@ -11,7 +11,7 @@ Cookbook is licensed using an open source license.
 
 Acceptable licenses are:
 
-* Apache 2.0
+* Apache-2.0
 * GNU Public License 2.0
 * GNU Public License 3.0
 * MIT
