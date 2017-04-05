@@ -1,8 +1,8 @@
 ---
 SMQM: 006
 Author: John Bellone <jbellone@bloomberg.net>
-Status: Accepted
-License: Apache 2.0
+Status: In Progress - Admin Only
+License: Apache-2.0
 ---
 
 # Cookbook lists at least one platform it supports

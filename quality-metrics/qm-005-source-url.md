@@ -2,7 +2,7 @@
 SMQM: 005
 Author: John Bellone <jbellone@bloomberg.net>
 Status: Closed
-License: Apache 2.0
+License: Apache-2.0
 ---
 
 # Cookbook lists a source address for repository

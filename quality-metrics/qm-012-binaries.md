@@ -1,8 +1,8 @@
 ---
 SMQM: 012
 Author: Clinton Wolfe <clintons@omniti.com>
-Status: Accepted
-License: Apache 2.0
+Status: In Progress - Admin Only
+License: Apache-2.0
 ---
 
 # Cookbook does not contain binaries

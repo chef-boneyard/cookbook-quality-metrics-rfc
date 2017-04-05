@@ -2,7 +2,7 @@
 SMQM: 007
 Author: JJ Asghar <jj@chefio>
 Status: Accepted
-License: Apache 2.0
+License: Apache-2.0
 ---
 
 # Cookbook includes integration tests

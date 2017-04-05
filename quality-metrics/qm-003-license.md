@@ -1,8 +1,8 @@
 ---
 SMQM: 003
 Author: Nathen Harvey <nharvey@chef.io>
-Status: In Progress
-License: Apache 2.0
+Status: In Progress - Admin Only
+License: Apache-2.0
 ---
 
 # Cookbook has an open source license
@@ -15,6 +15,8 @@ Acceptable licenses are:
 * GPL-2.0, gplv2
 * GPL-3.0, gplv3
 * MIT, mit
+
+Licenses listed using the [SPDX License Identifiers](https://spdx.org/licenses/) are preferred.
 
 Cookbooks without open source licenses may not be modifiable and may not even be legally used by consumers.
 

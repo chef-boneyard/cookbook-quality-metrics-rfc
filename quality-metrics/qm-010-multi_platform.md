@@ -1,8 +1,8 @@
 ---
 SMQM: 010
 Author: Tim Smith <tsmith@chef.io>
-Status: In Progress
-License: Apache 2.0
+Status: Accepted
+License: Apache-2.0
 ---
 
 # Cookbook Supports Multiple Platforms

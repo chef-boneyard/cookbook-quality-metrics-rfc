@@ -1,8 +1,8 @@
 ---
 SMQM: 014
 Author: Robb Kidd <robb@thekidds.org>
-Status: Accepted
-License: Apache 2.0
+Status: In Progress - Admin Only
+License: Apache-2.0
 ---
 
 # Cookbook source has a tag matching cookbook version

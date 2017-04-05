@@ -1,8 +1,8 @@
 ---
 SMQM: 011
 Author: Tim Smith <tsmith@chef.io>
-Status: In Progress
-License: Apache 2.0
+Status: In Progress - Admin Only
+License: Apache-2.0
 ---
 
 # Cookbook Includes CONTRIBUTING.MD file

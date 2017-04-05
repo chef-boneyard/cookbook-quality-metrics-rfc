@@ -14,9 +14,9 @@ SMQM | Name                                                | Status
 008  | Cookbook Passes Cookstyle                           | Accepted
 009  | Cookbook Passes Foodcritic                          | Implemented
 010  | Cookbook Supports Multiple Platforms                | Accepted
-011  | Cookbook Includes CONTRIBUTING.MD file              | Accepted
-012  | Cookbook does not contain binaries                  | Accepted
-013  | Cookbook Includes TESTING.MD File                   | Accepted
-014  | Cookbook source has a tag matching cookbook version | Accepted
+011  | Cookbook Includes CONTRIBUTING.MD file              | In Progress - Admin Only
+012  | Cookbook does not contain binaries                  | In Progress - Admin Only
+013  | Cookbook Includes TESTING.MD File                   | In Progress - Admin Only
+014  | Cookbook source has a tag matching cookbook version | In Progress - Admin Only
 
 See the [README](README.md) for more information on the various states of a quality metric.
