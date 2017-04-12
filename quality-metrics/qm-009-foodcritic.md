@@ -2,7 +2,7 @@
 SMQM: 009
 Author: Nathen Harvey <nharvey@chef.io>
 Status: Implemented
-License: Apache 2.0
+License: Apache-2.0
 ---
 
 # Cookbook Passes Foodcritic

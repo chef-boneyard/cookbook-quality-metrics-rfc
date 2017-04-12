@@ -1,8 +1,8 @@
 ---
 SMQM: UNASSIGNED
 Author: Melissa Jones <mjones@example.com>
-Status: Draft, Accepted, Implemented, Closed
-License: Apache 2.0
+Status: Draft, Accepted, In Progress - Admin Only, Implemented, Closed
+License: Apache-2.0
 ---
 
 # Name of the rule

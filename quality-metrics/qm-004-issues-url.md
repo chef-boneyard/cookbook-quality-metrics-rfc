@@ -2,7 +2,7 @@
 SMQM: 004
 Author: John Bellone <jbellone@bloomberg.net>
 Status: Closed
-License: Apache 2.0
+License: Apache-2.0
 ---
 
 # Cookbook lists address for issues

@@ -2,7 +2,7 @@
 SMQM: 008
 Author: Nathen Harvey <nharvey@chef.io>
 Status: Accepted
-License: Apache 2.0
+License: Apache-2.0
 ---
 
 # Cookbook Passes Cookstyle

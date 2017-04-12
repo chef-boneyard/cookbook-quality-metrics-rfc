@@ -1,8 +1,8 @@
 ---
 SMQM: 001
 Author: Nathen Harvey <nharvey@chef.io>
-Status: In Progress
-License: Apache 2.0
+Status: In Progress - Admin Only
+License: Apache-2.0
 ---
 
 # Published to the Supermarket
