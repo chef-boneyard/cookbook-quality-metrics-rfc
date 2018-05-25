@@ -16,6 +16,6 @@ Pseudocode or actual code that can be used to automatically verify the rule.
 
 ```
 it 'has a contributing doc' do
-  expect(CONTRIBUTING.md).to exist
+  expect(README.md).to exist
 end
 ```
