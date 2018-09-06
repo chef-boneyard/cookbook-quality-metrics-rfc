@@ -21,7 +21,7 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
   component which is used by the [Supermarket](https://github.com/chef/supermarket).
   """
 
-        lieutenant = "nathenharvey"
+        lieutenant = "robbkidd"
 
         maintainers = [
           "tas50",
@@ -40,7 +40,7 @@ for details on the process, how to become a maintainer, lieutenant, or the proje
           "nellshamrell",
           "ryancragun",
           "stephenlauck",
-          "robbkidd"
+          "nathenharvey"
         ]
 
 [people]

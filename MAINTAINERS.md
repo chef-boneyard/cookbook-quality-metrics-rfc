@@ -22,9 +22,9 @@ To mention the team, use @chef-cookbooks/quality-metrics-maintainers
 
 ### Lieutenant
 
-* [Nathen Harvey](https://github.com/nathenharvey)
-  * Slack - nathenharvey
-  * [@nathenharvey](https://twitter.com/nathenharvey)
+* [Robb Kidd](https://github.com/robbkidd)
+  * Slack - robbkidd
+  * [@robbkidd](https://twitter.com/robbkidd)
 
 ### Maintainers
 
@@ -50,7 +50,7 @@ To mention the team, use @chef-cookbooks/quality-metrics-maintainers
 * [Nell Shamrell](https://github.com/nellshamrell)
 * [Ryan Cragun](https://github.com/ryancragun)
 * [Stephen Lauck](https://github.com/stephenlauck)
-* [Robb Kidd](https://github.com/robbkidd)
-  * Slack - robbkidd
-  * [@robbkidd](https://twitter.com/robbkidd)
+* [Nathen Harvey](https://github.com/nathenharvey)
+  * Slack - nathenharvey
+  * [@nathenharvey](https://twitter.com/nathenharvey)
 
