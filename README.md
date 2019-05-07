@@ -3,6 +3,12 @@
 This is a system used to provide an objective measure of a number of cookbook
 quality metrics.  The system takes inspiration from [Foodcritic](http://www.foodcritic.io/).
 
+**Umbrella Project**: [Supermarket](https://github.com/chef/chef-oss-practices/blob/master/projects/supermarket.md)
+
+* **[Project State](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md):** Maintained
+* **Issues [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md):** 14 days
+* **Pull Request [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md):** 14 days
+
 This repository is a place where the community can start collaborating on
 metrics.
 
